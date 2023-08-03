@@ -16,6 +16,7 @@ services:
     command: "go run main.go"
     volumes:
       - ./:/go/src
+      - ~/.ssh:/root/.ssh:ro
     working_dir: /go/src
     ports:
       - "8080:8080"

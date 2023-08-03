@@ -16,5 +16,7 @@ fi
 
 if [ "$GO_ENV" = "development" ]; then
   # arelo -p '**/*.go' -p '**/*.toml' -- go run ./main.go
+  git config --global url."git@github.com:".insteadOf "https://github.com/"
+  export GOPRIVATE=github.com/Anti-Pattern-Inc/saasus-sdk-go
   arelo -p '**/*.go' -- go run ./main.go
 fi
