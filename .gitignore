@@ -1,2 +1,4 @@
 mysql/volume
 .vscode
+.env
+.*

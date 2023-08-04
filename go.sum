@@ -9,6 +9,8 @@ github.com/Anti-Pattern-Inc/saasus-sdk-go v0.0.0-20230802234805-395012afe4d1 h1:
 github.com/Anti-Pattern-Inc/saasus-sdk-go v0.0.0-20230802234805-395012afe4d1/go.mod h1:g2K2LlWx58I9ddRVReyOZPRln9yplTU4p21g20OUibM=
 github.com/Anti-Pattern-Inc/saasus-sdk-go v0.0.0-20230803004059-3b3fbf07511d h1:HE9AKdb+0V9Vg/5GSoAAYwCHdleOxBpkCVmlRqiI5RI=
 github.com/Anti-Pattern-Inc/saasus-sdk-go v0.0.0-20230803004059-3b3fbf07511d/go.mod h1:g2K2LlWx58I9ddRVReyOZPRln9yplTU4p21g20OUibM=
+github.com/Anti-Pattern-Inc/saasus-sdk-go v0.0.0-20230803081935-cdc7dde05589 h1:ykw+/ziQe5vU+6ffQjtnvRm2iKUf9SwPhkLW6hQNwio=
+github.com/Anti-Pattern-Inc/saasus-sdk-go v0.0.0-20230803081935-cdc7dde05589/go.mod h1:g2K2LlWx58I9ddRVReyOZPRln9yplTU4p21g20OUibM=
 github.com/DATA-DOG/go-sqlmock v1.5.0 h1:Shsta01QNfFxHCfpW6YH2STWB0MudeXXEWMr20OEh60=
 github.com/DATA-DOG/go-sqlmock v1.5.0/go.mod h1:f/Ixk793poVmq4qj/V1dPUg2JEAKC73Q5eFN3EC/SaM=
 github.com/RaveNoX/go-jsoncommentstrip v1.0.0/go.mod h1:78ihd09MekBnJnxpICcwzCMzGrKSKYe4AqU6PDYYpjk=

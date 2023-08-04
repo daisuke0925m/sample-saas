@@ -3,7 +3,7 @@ module github.com/daisuke0925m/sample-saas
 go 1.20
 
 require (
-	github.com/Anti-Pattern-Inc/saasus-sdk-go v0.0.0-20230803004059-3b3fbf07511d
+	github.com/Anti-Pattern-Inc/saasus-sdk-go v0.0.0-20230803081935-cdc7dde05589
 	github.com/gin-gonic/gin v1.9.1
 	github.com/go-sql-driver/mysql v1.7.1
 	github.com/sebdah/goldie/v2 v2.5.3

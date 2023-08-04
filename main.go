@@ -15,5 +15,5 @@ func main() {
 	}
 	userController := controllers.NewUserController(infrastructure.NewSqlHandler())
 	r := infrastructure.NewRouter(userController)
-	r.Run()
+	r.Run(":3000")
 }
